@@ -12,4 +12,5 @@ test:
 	chmod +x guessitTest
 	./guessitTest
 clean:
-	rm -rf *.o guessit guessitTest
+	rm -rf *.o guessit guessit
+	Test

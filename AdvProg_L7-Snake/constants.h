@@ -4,7 +4,7 @@
 #define CONSTANTS_H
 
 #if defined(_WIN64) || defined(_WIN32)
-    #include <SDL.h>
+    #include <SDL2/SDL.h>
 #else
     #include <SDL2/SDL.h>
 #endif
